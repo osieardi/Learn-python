@@ -1,0 +1,8 @@
+print("hello world")
+print("Hello World again")
+print("hai saya pakai python 3 neh")
+print("padahal buku panduan suruh pakai 2.7")
+print("doakan berhasil ya")
+print("Gabante!")
+print("coba pakai quote's")
+print("yeahhh berhasil")
